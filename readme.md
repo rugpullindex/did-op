@@ -19,7 +19,7 @@ $ npm i did-op
 ```js
 import { v3 } from "did-op";
 
-console.log(v3.fromDID(""));
+console.log(v3.fromDID("did:op:7Bce67697eD2858d0683c631DdE7Af823b7eea38"));
 // 0x7bce67697ed2858d0683c631dde7af823b7eea38
 
 console.log(v3.toDID("0x7bce67697ed2858d0683c631dde7af823b7eea38"));
