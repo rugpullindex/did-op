@@ -6,7 +6,7 @@
 
 #### Utility to convert identifiers from Ocean Protocol DIDs to e.g. ERC20 addresses and vice versa
 
-#### [Get Started](#get-started) | [Changelog](./CHANGELOG.md)
+#### [Get Started](#get-started) | [Changelog](./changelog.md)
 
 ## Installation
 
