@@ -4,7 +4,7 @@
 [![Node.js CI](https://github.com/rugpullindex/did-op/actions/workflows/node.js.yml/badge.svg)](https://github.com/rugpullindex/did-op/actions/workflows/node.js.yml)
 
 
-#### A library to cast ERC20 addresses to Ocean Protocol DIDs
+#### Utility to convert identifiers from Ocean Protocol DIDs to e.g. ERC20 addresses and vice versa
 
 #### [Get Started](#get-started) | [Changelog](./CHANGELOG.md)
 
